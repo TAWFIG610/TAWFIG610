@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Tawfig%20Tayeb&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20AI%20%26%20ML%20Enthusiast%20|%20Full%20Stack%20Data%20Scientist%20🇲🇾&descAlignY=65&descAlign=center)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Science+Student+📊;Machine+Learning+Engineer+🤖;Python+Developer+🐍;AI+Innovation+Enthusiast+🚀" alt="Typing SVG" />
@@ -14,36 +13,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```python
-class TawfigTayeb:
-    def __init__(self):
-        self.username = "TAWFIG610"
-        self.name = "Tawfig Tayeb"
-        self.position = "Data Science Student"
-        self.location = "Alor Setar, Kedah, Malaysia 🇲🇾"
-        self.university = "Albukhary International University"
-        self.languages = ["Arabic", "English"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL", "R", "HTML", "CSS"],
-            "libraries": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
-            "tools": ["Power BI", "Google Colab", "VS Code", "Excel", "MySQL"],
-            "cloud": ["AWS", "Google Cloud"],
-            "soft_skills": ["Communication", "Critical Thinking", "Teamwork"]
-        }
-        
-    def current_focus(self):
-        return ["Machine Learning", "Data Analysis", "AI Innovation"]
-        
-    def fun_fact(self):
-        return "I turn coffee into code and data into insights! ☕📊"
-```
 
 - 🎓 **Computer Science (Data Science)** student at **Albukhary International University**
-- 🔭 Currently working on **Employee Attrition Prediction** using ML models
 - 🌱 Learning **Deep Learning** and **Advanced AI** techniques
 - 👯 Looking to collaborate on **Data Science** and **Machine Learning** projects
 - 💬 Ask me about **Python, Data Analysis, Machine Learning**
